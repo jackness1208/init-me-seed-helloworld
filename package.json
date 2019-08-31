@@ -1,0 +1,24 @@
+{
+  "name": "init-me-seed-helloworld",
+  "version": "0.1.0",
+  "description": "init-me seed example",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackness1208/init-me-seed-helloworld.git"
+  },
+  "author": "jackness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackness1208/init-me-seed-helloworld/issues"
+  },
+  "homepage": "https://github.com/jackness1208/init-me-seed-helloworld#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "yyl-fs": "^0.3.2"
+  }
+}
